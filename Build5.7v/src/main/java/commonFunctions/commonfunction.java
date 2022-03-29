@@ -21,10 +21,10 @@ import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 
 public class commonfunction {
 
-//common extentreport;
+//common extentreport practice
 	
 	
-	 public static ExtentReports extent;
+	 public  ExtentReports extent;
 	  
 	  public  static ExtentSparkReporter reports;
 	  
